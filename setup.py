@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="wog",
-    version="0.5",
+    version="1.1.0.2",
     author="Nissim Museri",
     author_email="nissim34@gmail.com",
     description="A Package for DevOps course project.",

@@ -1,4 +1,4 @@
-from src.Game import Game
+from wog.Game import Game
 from currency_converter import CurrencyConverter
 from random import randint
 

@@ -1,6 +1,6 @@
-from src.GuessGame import GuessGame
-from src.MemoryGame import MemoryGame
-from src.CurrencyRouletteGame import CurrencyRouletteGame
+from wog.GuessGame import GuessGame
+from wog.MemoryGame import MemoryGame
+from wog.CurrencyRouletteGame import CurrencyRouletteGame
 
 
 def welcome(name):

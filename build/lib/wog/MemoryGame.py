@@ -1,4 +1,4 @@
-from src.Game import Game
+from wog.Game import Game
 from random import randint
 import sys
 from time import sleep
